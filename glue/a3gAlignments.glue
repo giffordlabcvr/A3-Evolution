@@ -1,0 +1,14 @@
+  # Import internal node alignments
+  module unconstrainedAlignmentImporter
+
+    #~# Root alignments
+    import AL_IFNL_ROOT_UNCONSTRAINED -f alignments/root/infl-root.fna
+
+    #~# Internal alignments
+    import AL_IFNLA_UNCONSTRAINED -f alignments/internal/infla-mrna.fna
+    import AL_IFNLB_UNCONSTRAINED -f alignments/internal/inflb-mrna.fna
+
+
+
+    exit
+

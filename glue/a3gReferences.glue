@@ -1,0 +1,14 @@
+  #### A3    
+  create reference REF_A3_MASTER ncbi-refseqs NM_001276254  
+
+  #### A3A
+  create reference REF_A3G_Primates ncbi-refseqs NM_001276254  
+
+  #### A3G
+  create reference REF_A3G_Primates ncbi-refseqs NM_001276254  
+
+  #### A3F
+  create reference REF_A3GB1 ncbi-refseqs NM_172140
+
+  #### A3H
+  create reference REF_A3GB1_psi A3G-fasta A3GB1_Psi_Hsa

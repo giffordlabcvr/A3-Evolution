@@ -1,0 +1,3 @@
+<fastaExporter>
+    <idTemplate>${sequenceID}.${virus_name}</idTemplate>
+</fastaExporter>

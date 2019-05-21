@@ -1,0 +1,18 @@
+<freemarkerTextToGlueTransformer>
+	<freemarkerTemplate><![CDATA[
+<#list rows as row>
+  <#assign referenceName>${row["referenceName"]?trim}</#assign>
+  <#assign featureName>${row["featureName"]?trim}</#assign>
+  <#assign startNT>${row["startNT"]?trim}</#assign>
+  <#assign endNT>${row["endNT"]?trim}</#assign>
+  <#if referenceName != "" && featureName != "" && startNT != "" && endNT != "">
+reference ${referenceName}
+  add feature-location ${featureName}
+  feature-location ${featureName}
+    add segment ${startNT} ${endNT}
+    exit
+  exit
+  </#if>  
+</#list>
+]]></freemarkerTemplate>
+</freemarkerTextToGlueTransformer>

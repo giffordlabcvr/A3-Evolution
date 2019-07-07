@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_145699</GBSeq_locus>
+    <GBSeq_length>1358</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>02-MAY-2019</GBSeq_update-date>
+    <GBSeq_create-date>25-JUL-2002</GBSeq_create-date>
+    <GBSeq_definition>Homo sapiens apolipoprotein B mRNA editing enzyme catalytic subunit 3A (APOBEC3A), transcript variant 1, mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_145699</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_145699.4</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_145699.4|</GBSeqid>
+      <GBSeqid>gi|1519242007</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+      <GBKeyword>MANE Select</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Homo sapiens (human)</GBSeq_source>
+    <GBSeq_organism>Homo sapiens</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Taura M</GBAuthor>
+          <GBAuthor>Song E</GBAuthor>
+          <GBAuthor>Ho YC</GBAuthor>
+          <GBAuthor>Iwasaki A</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Apobec3A maintains HIV-1 latency through recruitment of epigenetic silencing machinery to the long terminal repeat</GBReference_title>
+        <GBReference_journal>Proc. Natl. Acad. Sci. U.S.A. 116 (6), 2282-2289 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1073/pnas.1819386116</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30670656</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: We show that knockdown of A3A in latently infected human primary CD4 T cells enhanced HIV-1 reactivation. Collectively, we provide evidence and a mechanism by which A3A reinforces HIV-1 latency in infected CD4 T cells.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kukimoto I</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>[Human Papillomavirus Carcinogenesis Mediated by APOBEC Mutagenesis]</GBReference_title>
+        <GBReference_journal>Yakugaku Zasshi 139 (1), 75-79 (2019)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1248/yakushi.18-00164-3</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>30606934</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: It is the major target for C-to-T substitutions in the HPV genomes.
+Review article</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Westrich JA</GBAuthor>
+          <GBAuthor>Warren CJ</GBAuthor>
+          <GBAuthor>Klausner MJ</GBAuthor>
+          <GBAuthor>Guo K</GBAuthor>
+          <GBAuthor>Liu CW</GBAuthor>
+          <GBAuthor>Santiago ML</GBAuthor>
+          <GBAuthor>Pyeon D</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Human Papillomavirus 16 E7 Stabilizes APOBEC3A Protein by Inhibiting Cullin 2-Dependent Protein Degradation</GBReference_title>
+        <GBReference_journal>J. Virol. 92 (7), e01318-17 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.01318-17</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29367246</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: direct evidence that both A3A and HPV16 E7 interact with CUL2, suggesting that the E7-CUL2 complex formed during HPV infection may regulate A3A protein levels in the cell.; Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Heller M</GBAuthor>
+          <GBAuthor>Prigge ES</GBAuthor>
+          <GBAuthor>Kaczorowski A</GBAuthor>
+          <GBAuthor>von Knebel Doeberitz M</GBAuthor>
+          <GBAuthor>Hohenfellner M</GBAuthor>
+          <GBAuthor>Duensing S</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>APOBEC3A Expression in Penile Squamous Cell Carcinoma</GBReference_title>
+        <GBReference_journal>Pathobiology 85 (3), 169-178 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1159/000479007</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29166639</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: The results suggest that APOBEC3A expression is downregulated during progression towards invasiveness in human papillomaviruse (HPV)-negative penile squamous cell carcinoma (SCC), but maintained in HPV-positive penile SCC.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Faden DL</GBAuthor>
+          <GBAuthor>Thomas S</GBAuthor>
+          <GBAuthor>Cantalupo PG</GBAuthor>
+          <GBAuthor>Agrawal N</GBAuthor>
+          <GBAuthor>Myers J</GBAuthor>
+          <GBAuthor>DeRisi J</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Multi-modality analysis supports APOBEC as a major source of mutations in head and neck squamous cell carcinoma</GBReference_title>
+        <GBReference_journal>Oral Oncol. 74, 8-14 (2017)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1016/j.oraloncology.2017.09.002</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29103756</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: APOBEC3A is the most likely gene to be active in HPV+ HNSCC. APOBEC activity correlates with upregulation of immune signaling pathways, supporting the hypothesis that APOBEC activity could be activated as part of the innate immune response</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>6</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Kidd JM</GBAuthor>
+          <GBAuthor>Newman TL</GBAuthor>
+          <GBAuthor>Tuzun E</GBAuthor>
+          <GBAuthor>Kaul R</GBAuthor>
+          <GBAuthor>Eichler EE</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Population stratification of a common APOBEC gene deletion polymorphism</GBReference_title>
+        <GBReference_journal>PLoS Genet. 3 (4), e63 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pgen.0030063</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17447845</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>7</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jarmuz A</GBAuthor>
+          <GBAuthor>Chester A</GBAuthor>
+          <GBAuthor>Bayliss J</GBAuthor>
+          <GBAuthor>Gisbourne J</GBAuthor>
+          <GBAuthor>Dunham I</GBAuthor>
+          <GBAuthor>Scott J</GBAuthor>
+          <GBAuthor>Navaratnam N</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>An anthropoid-specific locus of orphan C to U RNA-editing enzymes on chromosome 22</GBReference_title>
+        <GBReference_journal>Genomics 79 (3), 285-296 (2002)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1006/geno.2002.6718</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>11863358</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>8</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dunham I</GBAuthor>
+          <GBAuthor>Shimizu N</GBAuthor>
+          <GBAuthor>Roe BA</GBAuthor>
+          <GBAuthor>Chissoe S</GBAuthor>
+          <GBAuthor>Hunt AR</GBAuthor>
+          <GBAuthor>Collins JE</GBAuthor>
+          <GBAuthor>Bruskiewich R</GBAuthor>
+          <GBAuthor>Beare DM</GBAuthor>
+          <GBAuthor>Clamp M</GBAuthor>
+          <GBAuthor>Smink LJ</GBAuthor>
+          <GBAuthor>Ainscough R</GBAuthor>
+          <GBAuthor>Almeida JP</GBAuthor>
+          <GBAuthor>Babbage A</GBAuthor>
+          <GBAuthor>Bagguley C</GBAuthor>
+          <GBAuthor>Bailey J</GBAuthor>
+          <GBAuthor>Barlow K</GBAuthor>
+          <GBAuthor>Bates KN</GBAuthor>
+          <GBAuthor>Beasley O</GBAuthor>
+          <GBAuthor>Bird CP</GBAuthor>
+          <GBAuthor>Blakey S</GBAuthor>
+          <GBAuthor>Bridgeman AM</GBAuthor>
+          <GBAuthor>Buck D</GBAuthor>
+          <GBAuthor>Burgess J</GBAuthor>
+          <GBAuthor>Burrill WD</GBAuthor>
+          <GBAuthor>O'Brien KP</GBAuthor>
+          <GBAuthor>et al</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The DNA sequence of human chromosome 22</GBReference_title>
+        <GBReference_journal>Nature 402 (6761), 489-495 (1999)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/990031</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>10591208</GBReference_pubmed>
+        <GBReference_remark>Erratum:[Nature 2000 Apr 20;404(6780):904]</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>9</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Madsen P</GBAuthor>
+          <GBAuthor>Anant S</GBAuthor>
+          <GBAuthor>Rasmussen HH</GBAuthor>
+          <GBAuthor>Gromov P</GBAuthor>
+          <GBAuthor>Vorum H</GBAuthor>
+          <GBAuthor>Dumanski JP</GBAuthor>
+          <GBAuthor>Tommerup N</GBAuthor>
+          <GBAuthor>Collins JE</GBAuthor>
+          <GBAuthor>Wright CL</GBAuthor>
+          <GBAuthor>Dunham I</GBAuthor>
+          <GBAuthor>MacGinnitie AJ</GBAuthor>
+          <GBAuthor>Davidson NO</GBAuthor>
+          <GBAuthor>Celis JE</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Psoriasis upregulated phorbolin-1 shares structural but not functional similarity to the mRNA-editing protein apobec-1</GBReference_title>
+        <GBReference_journal>J. Invest. Dermatol. 113 (2), 162-169 (1999)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1046/j.1523-1747.1999.00682.x</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>10469298</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>10</GBReference_reference>
+        <GBReference_position>1..1358</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rasmussen HH</GBAuthor>
+          <GBAuthor>van Damme J</GBAuthor>
+          <GBAuthor>Puype M</GBAuthor>
+          <GBAuthor>Gesser B</GBAuthor>
+          <GBAuthor>Celis JE</GBAuthor>
+          <GBAuthor>Vandekerckhove J</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Microsequences of 145 proteins recorded in the two-dimensional gel protein database of normal human epidermal keratinocytes</GBReference_title>
+        <GBReference_journal>Electrophoresis 13 (12), 960-969 (1992)</GBReference_journal>
+        <GBReference_pubmed>1286667</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>REVIEWED REFSEQ: This record has been curated by NCBI staff. The reference sequence was derived from BI029063.1, BC126416.1, DB322320.1, U03891.2 and AL022318.2.; On Nov 22, 2018 this sequence version replaced NM_145699.3.; ~Summary: This gene is a member of the cytidine deaminase gene family. It is one of seven related genes or pseudogenes found in a cluster, thought to result from gene duplication, on chromosome 22. Members of the cluster encode proteins that are structurally and functionally related to the C to U RNA-editing cytidine deaminase APOBEC1. The protein encoded by this gene lacks the zinc binding activity of other family members. The protein plays a role in immunity, by restricting transmission of foreign DNA such as viruses. One mechanism of foreign DNA restriction is deamination of foreign double-stranded DNA cytidines to uridines, which leads to DNA degradation. However, other mechanisms are also thought to be involved, as anti-viral effect is not dependent on deaminase activity. Two transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2012].; ~Transcript Variant: This variant (1) represents the longer transcript and encodes the longer isoform (a).; ~Publication Note: This RefSeq record includes a subset of the publications that are available for this gene. Please see the Gene record to access additional publications.; ; ##Evidence-Data-START## ; Transcript exon combination :: U03891.2, ERR279847.6931.1 [ECO:0000332] ; RNAseq introns :: single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348] ; ##Evidence-Data-END##; ; ##RefSeq-Attributes-START## ; MANE Ensembl match :: ENST00000249116.7/ ENSP00000249116.2 ; RefSeq Select criteria :: based on conservation, expression, longest protein ; ##RefSeq-Attributes-END##; COMPLETENESS: full length.</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-23                BI029063.1         88-110~24-788              BC126416.1         1-765~789-1189            DB322320.1         116-516             c~1190-1303           DB322320.1         1-114               c~1304-1357           U03891.2           1295-1348~1358-1358           AL022318.2         78991-78991</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1358</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1358</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9606</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>22</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>22q13.1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1358</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1358</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>apolipoprotein B mRNA editing enzyme catalytic subunit 3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:200315</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HGNC:HGNC:17343</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MIM:607109</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1..112</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>112</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>15..17</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>15</GBInterval_from>
+            <GBInterval_to>17</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>upstream in-frame stop codon</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>84..683</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>84</GBInterval_from>
+            <GBInterval_to>683</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>EC_number</GBQualifier_name>
+            <GBQualifier_value>3.5.4.38</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>isoform a is encoded by transcript variant 1; probable DNA dC-&gt;dU-editing enzyme APOBEC-3A; phorbolin-1; apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>DNA dC-&gt;dU-editing enzyme APOBEC-3A isoform a</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_663745.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>CCDS:CCDS13981.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:200315</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>HGNC:HGNC:17343</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>MIM:607109</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEASPASGPRHLMDPHIFTSNFNNGIGRHKTYLCYEVERLDNGTSVKMDQHRGFLHNQAKNLLCGFYGRHAELRFLDLVPSLQLDPAQIYRVTWFISWSPCFSWGCAGEVRAFLQENTHVRLRIFAARIYDYDPLYKEALQMLRDAGAQVSIMTYDEFKHCWDTFVDHQGCPFQPWDGLDEHSQALSGRLRAILQNQGN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>113..257</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>113</GBInterval_from>
+            <GBInterval_to>257</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>258..552</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>258</GBInterval_from>
+            <GBInterval_to>552</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>553..668</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>553</GBInterval_from>
+            <GBInterval_to>668</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>669..1358</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>669</GBInterval_from>
+            <GBInterval_to>1358</GBInterval_to>
+            <GBInterval_accession>NM_145699.4</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3A</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3A; ARP3; bK150C2.1; PHRBN</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gttggtgaagatcttaacaccacgccttgagcaagtcgcaagagcgggaggacacagaccaggaaccgagaagggacaagcacatggaagccagcccagcatccgggcccagacacttgatggatccacacatattcacttccaactttaacaatggcattggaaggcataagacctacctgtgctacgaagtggagcgcctggacaatggcacctcggtcaagatggaccagcacaggggctttctacacaaccaggctaagaatcttctctgtggcttttacggccgccatgcggagctgcgcttcttggacctggttccttctttgcagttggacccggcccagatctacagggtcacttggttcatctcctggagcccctgcttctcctggggctgtgccggggaagtgcgtgcgttccttcaggagaacacacacgtgagactgcgtatcttcgctgcccgcatctatgattacgaccccctatataaggaggcactgcaaatgctgcgggatgctggggcccaagtctccatcatgacctacgatgaatttaagcactgctgggacacctttgtggaccaccagggatgtcccttccagccctgggatggactagatgagcacagccaagccctgagtgggaggctgcgggccattctccagaatcagggaaactgaaggatgggcctcagtctctaaggaaggcagagacctgggttgagcagcagaataaaagatcttcttccaagaaatgcaaacagaccgttcaccaccatctccagctgctcacagacgccagcaaagcagtatgctcccgatcaagtagatttttaaaaaatcagagtgggccgggcgcggtggctcacgcctgtaatcccagcactttggaggccaaggcgggtggatcacgaggtcaggagatcgagaccatcctggctaacacggtgaaaccctgtctctactaaaaatacaaaaaattagccaggcgtggtggcgggcgcctgtagtcccagctactctggaggctgaggcaggagagtagcgtgaacccgggaggcagagcttgcggtgagccgagattgcgctactgcactccagcctgggcgacagtaccagactccatctcaaaaaaaaaaaaaccagactgaattaattttaactgaaaatttctcttatgttccaagtacacaatagtaagattatgctcaatattctcagaataattttcaatgtattaatgaaatgaaatgataatttggcttcatatctagactaacacaaaattaagaatcttccataattgcttttgctcagtaactgtgtcatgaattgcaagagtttccacaaacacta</GBSeq_sequence>
+  </GBSeq>

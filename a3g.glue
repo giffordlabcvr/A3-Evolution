@@ -1,4 +1,3 @@
-
 delete project a3g
 
 create project a3g "GLUE project for APOBEC3G" --minVersion 0.1.50
@@ -17,19 +16,19 @@ project a3g
   run file glue/a3gModules.glue
 
   # Import NCBI sources 
-  #import source sources/ncbi-refseqs/
+  import source sources/ncbi-refseqs/
   #import source sources/digs-fasta/
  
   # Populate sequence table fields from GenBank XML
-  #module genbankXmlPopulator populate
+  module genbankXmlPopulator populate
 
   # Define features
-  #run file glue/a3gFeatures.glue
+  run file glue/a3gFeatures.glue
 
   # Create references
-  #run file glue/a3gReferences.glue
+  run file glue/a3gReferences.glue
 
-  # Import peribunya alignments 
+  # Import alignments 
   #run file glue/a3gAlignments.glue
 
   # Validate

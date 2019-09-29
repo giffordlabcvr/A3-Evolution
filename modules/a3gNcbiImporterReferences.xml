@@ -32,12 +32,24 @@
 
     <!-- Human A3C -->
 	<primaryAccession>NM_014508.3</primaryAccession>
+	<!-- Otolemur garnettii DNA dC->dU-editing enzyme APOBEC-3C-like  -->
+	<primaryAccession>XM_023515456</primaryAccession>
+
+
 
     <!-- Human A3D (isoform 1) -->
 	<primaryAccession>NM_152426.4</primaryAccession>
 
     <!-- Human A3F (isoform 1) -->
 	<primaryAccession>XM_024452178.1</primaryAccession>
+    <!-- Human A3F (transcript variant 2) -->
+	<primaryAccession>XM_024452179.1</primaryAccession>
+    <!-- Human A3F (transcript variant 1) -->
+	<primaryAccession>NM_145298.6</primaryAccession>
+	<primaryAccession>XM_017861318</primaryAccession>
+
+
+
 
     <!-- Human A3G (isoform 1) -->
 	<primaryAccession>NM_021822.4</primaryAccession>
@@ -54,7 +66,8 @@
 	<primaryAccession>XM_007454106.1</primaryAccession>
     <!-- Equus A3H -->
 	<primaryAccession>XM_005606478.3</primaryAccession>
-	
+
+
   </specificPrimaryAccessions>  
   
   <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>

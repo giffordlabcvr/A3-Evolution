@@ -22,14 +22,14 @@ project a3g
   # Populate sequence table fields from GenBank XML
   module genbankXmlPopulator populate
 
-  # Define features
-  run file glue/a3gFeatures.glue
-
   # Create references
   run file glue/a3gReferences.glue
 
+  # Define features
+  run file glue/a3gFeatures.glue
+
   # Import alignments 
-  #run file glue/a3gAlignments.glue
+  run file glue/a3gAlignments.glue
 
   # Validate
   validate

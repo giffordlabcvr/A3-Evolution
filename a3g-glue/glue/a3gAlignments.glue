@@ -1,0 +1,32 @@
+  # Import internal node alignments
+  module unconstrainedAlignmentImporter
+
+    #~# Root alignments
+    import AL_A3_ROOT_UNCONSTRAINED -f alignments/root/a3.fna
+
+    #~# Internal alignments gene
+    #import AL_A3A_UNCONSTRAINED -f alignments/internal/a3a.fna
+    #import AL_A3B_UNCONSTRAINED -f alignments/internal/a3b.fna
+    #import AL_A3C_UNCONSTRAINED -f alignments/internal/a3c.fna
+    #import AL_A3D_UNCONSTRAINED -f alignments/internal/a3d.fna
+    #import AL_A3F_UNCONSTRAINED -f alignments/internal/a3f.fna
+    #import AL_A3G_UNCONSTRAINED -f alignments/internal/a3g.fna
+    #import AL_A3H_UNCONSTRAINED -f alignments/internal/a3h.fna
+
+    #~# Internal alignments domain
+    #import AL_A3Z1a_UNCONSTRAINED -f alignments/internal/A3Z1a.fna
+    #import AL_A3Z1b_UNCONSTRAINED -f alignments/internal/A3Z1b.fna
+    #import AL_A3Z1c_UNCONSTRAINED -f alignments/internal/A3Z1c.fna
+
+    #import AL_A3Z2a_UNCONSTRAINED -f alignments/internal/A3Z2a.fna
+    #import AL_A3Z2b_UNCONSTRAINED -f alignments/internal/A3Z2b.fna
+    #import AL_A3Z2c_UNCONSTRAINED -f alignments/internal/A3Z2c.fna
+    #import AL_A3Z2d_UNCONSTRAINED -f alignments/internal/A3Z2d.fna
+    #import AL_A3Z2e_UNCONSTRAINED -f alignments/internal/A3Z2e.fna
+    #import AL_A3Z2f_UNCONSTRAINED -f alignments/internal/A3Z2f.fna
+    #import AL_A3Z2g_UNCONSTRAINED -f alignments/internal/A3Z2g.fna
+
+    #import AL_A3Z3_UNCONSTRAINED -f alignments/internal/A3Z3.fna
+
+    exit
+    

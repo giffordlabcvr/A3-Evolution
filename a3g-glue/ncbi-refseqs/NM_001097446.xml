@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_001097446</GBSeq_locus>
+    <GBSeq_length>1574</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>MAM</GBSeq_division>
+    <GBSeq_update-date>16-DEC-2018</GBSeq_update-date>
+    <GBSeq_create-date>22-MAY-2007</GBSeq_create-date>
+    <GBSeq_definition>Sus scrofa apolipoprotein B mRNA editing enzyme catalytic subunit 3B (APOBEC3B), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_001097446</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_001097446.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_001097446.1|</GBSeqid>
+      <GBSeqid>gi|147905487</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Sus scrofa (pig)</GBSeq_source>
+    <GBSeq_organism>Sus scrofa</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Laurasiatheria; Cetartiodactyla; Suina; Suidae; Sus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1574</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Park SH</GBAuthor>
+          <GBAuthor>Kim JH</GBAuthor>
+          <GBAuthor>Jung YT</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Differential sensitivity of porcine endogenous retrovirus to APOBEC3-mediated inhibition</GBReference_title>
+        <GBReference_journal>Arch. Virol. 160 (8), 1901-1908 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-015-2450-y</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>26016442</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: Porcine endogenous retrovirus type C infectivity was strongly inhibited by poA3Z2-Z3, but it did not markedly reduce porcine endogenous retrovirus type B infectivity.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1574</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Dorrschuck E</GBAuthor>
+          <GBAuthor>Fischer N</GBAuthor>
+          <GBAuthor>Bravo IG</GBAuthor>
+          <GBAuthor>Hanschmann KM</GBAuthor>
+          <GBAuthor>Kuiper H</GBAuthor>
+          <GBAuthor>Spotter A</GBAuthor>
+          <GBAuthor>Moller R</GBAuthor>
+          <GBAuthor>Cichutek K</GBAuthor>
+          <GBAuthor>Munk C</GBAuthor>
+          <GBAuthor>Tonjes RR</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Restriction of porcine endogenous retrovirus by porcine APOBEC3 cytidine deaminases</GBReference_title>
+        <GBReference_journal>J. Virol. 85 (8), 3842-3857 (2011)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.01880-10</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>21307203</GBReference_pubmed>
+        <GBReference_remark>GeneRIF: These results strongly imply that human and porcine APOBEC3 could inhibit porcine endogenous retroviruses replication in vivo, thereby reducing the risk of infection of human cells in the context of pig-to-human xenotransplantation.</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1574</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>LaRue RS</GBAuthor>
+          <GBAuthor>Jonsson SR</GBAuthor>
+          <GBAuthor>Silverstein KA</GBAuthor>
+          <GBAuthor>Lajoie M</GBAuthor>
+          <GBAuthor>Bertrand D</GBAuthor>
+          <GBAuthor>El-Mabrouk N</GBAuthor>
+          <GBAuthor>Hotzel I</GBAuthor>
+          <GBAuthor>Andresdottir V</GBAuthor>
+          <GBAuthor>Smith TP</GBAuthor>
+          <GBAuthor>Harris RS</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>The artiodactyl APOBEC3 innate immune repertoire shows evidence for a multi-functional domain organization that existed in the ancestor of placental mammals</GBReference_title>
+        <GBReference_journal>BMC Mol. Biol. 9, 104 (2008)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/1471-2199-9-104</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>19017397</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1574</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Uenishi H</GBAuthor>
+          <GBAuthor>Eguchi-Ogawa T</GBAuthor>
+          <GBAuthor>Shinkai H</GBAuthor>
+          <GBAuthor>Okumura N</GBAuthor>
+          <GBAuthor>Suzuki K</GBAuthor>
+          <GBAuthor>Toki D</GBAuthor>
+          <GBAuthor>Hamasima N</GBAuthor>
+          <GBAuthor>Awata T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>PEDE (Pig EST Data Explorer) has been expanded into Pig Expression Data Explorer, including 10 147 porcine full-length cDNA sequences</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 35 (Database issue), D650-D653 (2007)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/gkl954</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17145712</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..1574</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Jonsson SR</GBAuthor>
+          <GBAuthor>Hache G</GBAuthor>
+          <GBAuthor>Stenglein MD</GBAuthor>
+          <GBAuthor>Fahrenkrug SC</GBAuthor>
+          <GBAuthor>Andresdottir V</GBAuthor>
+          <GBAuthor>Harris RS</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Evolutionarily conserved and non-conserved retrovirus restriction activities of artiodactyl APOBEC3F proteins</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 34 (19), 5683-5694 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/gkl721</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>17038330</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>6</GBReference_reference>
+        <GBReference_position>1..1574</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Uenishi H</GBAuthor>
+          <GBAuthor>Eguchi T</GBAuthor>
+          <GBAuthor>Suzuki K</GBAuthor>
+          <GBAuthor>Sawazaki T</GBAuthor>
+          <GBAuthor>Toki D</GBAuthor>
+          <GBAuthor>Shinkai H</GBAuthor>
+          <GBAuthor>Okumura N</GBAuthor>
+          <GBAuthor>Hamasima N</GBAuthor>
+          <GBAuthor>Awata T</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>PEDE (Pig EST Data Explorer): construction of a database for ESTs derived from porcine full-length cDNA libraries</GBReference_title>
+        <GBReference_journal>Nucleic Acids Res. 32 (Database issue), D484-D488 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/nar/gkh037</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>14681463</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>PROVISIONAL REFSEQ: This record has not yet been subject to final NCBI review. The reference sequence was derived from DQ974647.1.; ; ##Evidence-Data-START## ; Transcript exon combination :: DQ974647.1 [ECO:0000332] ; ##Evidence-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1574</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1574</GBInterval_to>
+            <GBInterval_accession>NM_001097446.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Sus scrofa</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9823</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>5</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1574</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1574</GBInterval_to>
+            <GBInterval_accession>NM_001097446.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3B</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3Z2-Z3; A3Z2_1; A3Z3; A3Z3_1; APOBEC3; APOBEC3F; APOBEC3F1; APOBEC3F2; APOBEC3Z2; APOBEC3Z3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>apolipoprotein B mRNA editing enzyme catalytic subunit 3B</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:100037939</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>13..15</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>13</GBInterval_from>
+            <GBInterval_to>15</GBInterval_to>
+            <GBInterval_accession>NM_001097446.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3B</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3Z2-Z3; A3Z2_1; A3Z3; A3Z3_1; APOBEC3; APOBEC3F; APOBEC3F1; APOBEC3F2; APOBEC3Z2; APOBEC3Z3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>upstream in-frame stop codon</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>79..1335</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>79</GBInterval_from>
+            <GBInterval_to>1335</GBInterval_to>
+            <GBInterval_accession>NM_001097446.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3B</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>gene_synonym</GBQualifier_name>
+            <GBQualifier_value>A3Z2-Z3; A3Z2_1; A3Z3; A3Z3_1; APOBEC3; APOBEC3F; APOBEC3F1; APOBEC3F2; APOBEC3Z2; APOBEC3Z3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>EC_number</GBQualifier_name>
+            <GBQualifier_value>3.5.4.38</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3F</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>DNA dC-&gt;dU-editing enzyme APOBEC-3B</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_001090915.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:100037939</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MDPQRLRQWPGPGPASRGGYGQRPRIRNPEEWFHELSPRTFSFHFRNLRFASGRNRSYICCQVEGKNCFFQGIFQNQVPPDPPCHAELCFLSWFQSWGLSPDEHYYVTWFISWSPCCECAAKVAQFLEENRNVSLSLSAARLYYFWKSESREGLRRLSDLGAQVGIMSFQDFQHCWNNFVHNLGMPFQPWKKLHKNYQRLVTELKQILRNTMNLLKENIFIQQFGNQPRVLAPYYLRKTYLCYQVKGPDDSILDKGCFQNKKKRHAEIRFIDKINSLNLDQNQCYRIICYVTWSPCHNCAKELVDFISNRHHLSLQLFASRLYFHWVRCYQRGLQRLQAKRVSVAVMKGPEFKDCWEKFVDHQGRSFPSWEKLEQYSESISRRLSRILRFANQNNLEDSFRDLRLGSPSPSSSRSDSR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>acgcgtccgcgctgagacggcctgggaggtcactctcagataaggggctcttcctacactggagccctgggggaggaaatggatcctcagcgcctgagacaatggccagggccgggaccagccagccgaggaggctacggccagaggcccaggatcaggaacccagaggagtggttccatgagttatctccccgaaccttctccttccactttcgcaacctgcgctttgcctctgggcggaaccgctcctacatctgctgccaggtggaaggaaagaactgtttcttccaaggcatctttcaaaaccaggtccctcccgacccgccctgccacgccgagctctgcttcctctcttggttccagtcctgggggctgtccccggacgagcattactacgtcacctggttcatctcctggagcccctgctgtgagtgtgcagcgaaggtggctcagttcctggaggagaacaggaacgtgagcctgagcctctcggccgctcgcctctactacttctggaagtcagagtcccgggaggggctgcgcagactgagtgacctgggggcccaggtgggcatcatgtccttccaagacttccaacactgctggaacaacttcgtgcacaacctggggatgcccttccagccgtggaaaaaactgcataaaaattatcaacgcttggtcacagagctgaagcagattctcagaaacacaatgaatctactaaaagaaaatatattcatacaacagtttggcaaccagccccgggtcttggcgccctactatctgaggaagacctacttgtgctaccaagtgaaggggcccgatgactccattcttgacaaaggctgcttccaaaacaagaaaaagcgacatgcagaaattcgttttattgacaagatcaattccttgaatctggaccagaaccagtgctacagaatcatctgctatgtcacctggagcccttgccacaactgtgccaaggagctggttgatttcatcagcaatcggcaccacctgagcctgcagctctttgcctcccgcctgtacttccactgggtcaggtgttatcagaggggtctgcagcgtctgcaggcaaagcgggtctccgtggctgtcatgaaaggcccagagttcaaagactgctgggaaaaatttgtggaccaccaggggaggagcttcccatcctgggagaagctggagcaatacagcgagagcataagccgacggctctcaaggatcctgcgtttcgcgaatcagaataatttagaggattccttcagagatttgcgactcggttccccatcaccttcatcatcaagaagtgactcgagatgacagacagttcctggggtatctcagcgctgactcgtaggaaccaggaacaagctccacgggcagccttgacccttgcccaagtcaagggacctttctttcctctttcattttgctcttttctaagtgggtaaatatttttataattgaaaaaaataacttgaacgcctgtaaaacttccattcttgcattgctttctgaaaggggaatcaggtctttccaacattaaaaaaaaaaaaaaa</GBSeq_sequence>
+  </GBSeq>

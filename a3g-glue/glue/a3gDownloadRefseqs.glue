@@ -1,0 +1,8 @@
+delete module ncbiImporter
+
+create module -f modules/a3gNcbiImporterReferences.xml ncbiImporter
+
+# Download NCBI sequences 
+module ncbiImporter import
+
+export source ncbi-refseqs

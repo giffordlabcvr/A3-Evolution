@@ -1,0 +1,11 @@
+<genbankXmlPopulator>
+
+
+	<!-- #### ORGANISM -->			
+	<gbOrganism>
+		<propertyPopulator property="full_name">
+		</propertyPopulator>
+	</gbOrganism>
+	
+	
+</genbankXmlPopulator>

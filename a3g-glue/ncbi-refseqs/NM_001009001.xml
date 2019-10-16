@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>NM_001009001</GBSeq_locus>
+    <GBSeq_length>1508</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PRI</GBSeq_division>
+    <GBSeq_update-date>26-FEB-2019</GBSeq_update-date>
+    <GBSeq_create-date>13-MAR-2009</GBSeq_create-date>
+    <GBSeq_definition>Pan troglodytes apolipoprotein B mRNA editing enzyme catalytic subunit 3G (APOBEC3G), mRNA</GBSeq_definition>
+    <GBSeq_primary-accession>NM_001009001</GBSeq_primary-accession>
+    <GBSeq_accession-version>NM_001009001.2</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>ref|NM_001009001.2|</GBSeqid>
+      <GBSeqid>gi|1065449470</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_secondary-accessions>
+      <GBSecondary-accn>XM_016939192</GBSecondary-accn>
+      <GBSecondary-accn>XM_515259</GBSecondary-accn>
+    </GBSeq_secondary-accessions>
+    <GBSeq_keywords>
+      <GBKeyword>RefSeq</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Pan troglodytes (chimpanzee)</GBSeq_source>
+    <GBSeq_organism>Pan troglodytes</GBSeq_organism>
+    <GBSeq_taxonomy>Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Pan</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1508</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Delebecque F</GBAuthor>
+          <GBAuthor>Suspene R</GBAuthor>
+          <GBAuthor>Calattini S</GBAuthor>
+          <GBAuthor>Casartelli N</GBAuthor>
+          <GBAuthor>Saib A</GBAuthor>
+          <GBAuthor>Froment A</GBAuthor>
+          <GBAuthor>Wain-Hobson S</GBAuthor>
+          <GBAuthor>Gessain A</GBAuthor>
+          <GBAuthor>Vartanian JP</GBAuthor>
+          <GBAuthor>Schwartz O</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Restriction of foamy viruses by APOBEC cytidine deaminases</GBReference_title>
+        <GBReference_journal>J. Virol. 80 (2), 605-614 (2006)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1128/JVI.80.2.605-614.2006</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16378963</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1508</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hughes JF</GBAuthor>
+          <GBAuthor>Skaletsky H</GBAuthor>
+          <GBAuthor>Pyntikova T</GBAuthor>
+          <GBAuthor>Minx PJ</GBAuthor>
+          <GBAuthor>Graves T</GBAuthor>
+          <GBAuthor>Rozen S</GBAuthor>
+          <GBAuthor>Wilson RK</GBAuthor>
+          <GBAuthor>Page DC</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Conservation of Y-linked genes during human evolution revealed by comparative sequencing in chimpanzee</GBReference_title>
+        <GBReference_journal>Nature 437 (7055), 100-103 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/nature04101</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16136134</GBReference_pubmed>
+        <GBReference_remark>Erratum:[Nature. 2006 May 11;441(7090):248]</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1508</GBReference_position>
+        <GBReference_consortium>Chimpanzee Sequencing and Analysis Consortium</GBReference_consortium>
+        <GBReference_title>Initial sequence of the chimpanzee genome and comparison with the human genome</GBReference_title>
+        <GBReference_journal>Nature 437 (7055), 69-87 (2005)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/nature04072</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>16136131</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>4</GBReference_reference>
+        <GBReference_position>1..1508</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sawyer SL</GBAuthor>
+          <GBAuthor>Emerman M</GBAuthor>
+          <GBAuthor>Malik HS</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Ancient adaptive evolution of the primate antiviral DNA-editing enzyme APOBEC3G</GBReference_title>
+        <GBReference_journal>PLoS Biol. 2 (9), E275 (2004)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1371/journal.pbio.0020275</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>15269786</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>5</GBReference_reference>
+        <GBReference_position>1..1508</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mariani R</GBAuthor>
+          <GBAuthor>Chen D</GBAuthor>
+          <GBAuthor>Schrofelbauer B</GBAuthor>
+          <GBAuthor>Navarro F</GBAuthor>
+          <GBAuthor>Konig R</GBAuthor>
+          <GBAuthor>Bollman B</GBAuthor>
+          <GBAuthor>Munk C</GBAuthor>
+          <GBAuthor>Nymark-McMahon H</GBAuthor>
+          <GBAuthor>Landau NR</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Species-specific exclusion of APOBEC3G from HIV-1 virions by Vif</GBReference_title>
+        <GBReference_journal>Cell 114 (1), 21-31 (2003)</GBReference_journal>
+        <GBReference_pubmed>12859895</GBReference_pubmed>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>VALIDATED REFSEQ: This record has undergone validation or preliminary review. The reference sequence was derived from NBAG03000283.1 and DQ185513.1.; On or before Sep 15, 2016 this sequence version replaced XM_016939192.1, NM_001009001.1.; ~Sequence Note: This RefSeq record was created from transcript and genomic sequence data to make the sequence consistent with the reference genome assembly. The genomic coordinates used for the transcript record were based on transcript alignments.; ; ##Evidence-Data-START## ; Transcript exon combination :: SRR6713217.18744.1, DQ185513.1 [ECO:0000332] ; RNAseq introns :: single sample supports all introns SAMN01120800, SAMN01120804 [ECO:0000348] ; ##Evidence-Data-END##</GBSeq_comment>
+    <GBSeq_primary>REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP~1-40                NBAG03000283.1     9899453-9899492     c~41-1187             DQ185513.1         1-1147~1188-1508           NBAG03000283.1     9889044-9889364     c</GBSeq_primary>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1508</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1508</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Pan troglodytes</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:9598</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>chromosome</GBQualifier_name>
+            <GBQualifier_value>22</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>map</GBQualifier_name>
+            <GBQualifier_value>22</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>1..1508</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1508</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>apolipoprotein B mRNA editing enzyme catalytic subunit 3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:449577</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>VGNC:VGNC:6684</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1..57</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>57</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>41..1195</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>41</GBInterval_from>
+            <GBInterval_to>1195</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>EC_number</GBQualifier_name>
+            <GBQualifier_value>3.5.4.5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>deoxycytidine deaminase; apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G; APOBEC3F</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>DNA dC-&gt;dU-editing enzyme APOBEC-3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>NP_001009001.2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>GeneID:449577</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>VGNC:VGNC:6684</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MKPQFRNPVERMYQDTFSDNFYNRPILSRRNTVWLCYEVKTKGPSRPPLDAKIFRGQVYSKLKYHPEMRFFHWFSKWRKLHRDQEYEVTWYISWSPCTKCTRDVATFLAEDPKVTLTIFVARLYYFWDPDYQEALRSLCQKRDGPRATMKIMNYDEFQHCWSKFVYSQRELFEPWNNLPKYYILLHIMLGEILRHSMDPPTFTSNFNNELWVRGRHETYLCYEVERLHNDTWVLLNQRRGFLCNQAPHKHGFLEGRHAELCFLDVIPFWKLDLHQDYRVTCFTSWSPCFSCAQEMAKFISNNKHVSLCIFAARIYDDQGRCQEGLRTLAKAGAKISIMTYSEFKHCWDTFVDHQGCPFQPWDGLEEHSQALSERLQAILQNQGN</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>41..220</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>41</GBInterval_from>
+            <GBInterval_to>220</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>propagated from UniProtKB/Swiss-Prot (Q7YR24.2); Region: Essential for cytoplasmic localization. {ECO:0000250}</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>134..136</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>134</GBInterval_from>
+            <GBInterval_to>136</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Phosphothreonine, by PKA. {ECO:0000250|UniProtKB:Q9HC16}; propagated from UniProtKB/Swiss-Prot (Q7YR24.2); phosphorylation site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>665..1048</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>665</GBInterval_from>
+            <GBInterval_to>1048</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>propagated from UniProtKB/Swiss-Prot (Q7YR24.2); Region: Necessary for homooligomerization. {ECO:0000250}</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>677..685</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>677</GBInterval_from>
+            <GBInterval_to>685</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>propagated from UniProtKB/Swiss-Prot (Q7YR24.2); Region: Interaction with DNA. {ECO:0000250}</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>692..694</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>692</GBInterval_from>
+            <GBInterval_to>694</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Phosphothreonine, by PKA and CAMK2. {ECO:0000250|UniProtKB:Q9HC16}; propagated from UniProtKB/Swiss-Prot (Q7YR24.2); phosphorylation site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>770..772</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>770</GBInterval_from>
+            <GBInterval_to>772</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Interaction with DNA. {ECO:0000250}; propagated from UniProtKB/Swiss-Prot (Q7YR24.2); other site</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>977..1000</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>977</GBInterval_from>
+            <GBInterval_to>1000</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>experiment</GBQualifier_name>
+            <GBQualifier_value>experimental evidence, no additional details recorded</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>propagated from UniProtKB/Swiss-Prot (Q7YR24.2); Region: Interaction with DNA. {ECO:0000250}</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>58..211</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>58</GBInterval_from>
+            <GBInterval_to>211</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>212..506</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>212</GBInterval_from>
+            <GBInterval_to>506</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>507..621</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>507</GBInterval_from>
+            <GBInterval_to>621</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>622..775</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>622</GBInterval_from>
+            <GBInterval_to>775</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>776..1064</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>776</GBInterval_from>
+            <GBInterval_to>1064</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1065..1180</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1065</GBInterval_from>
+            <GBInterval_to>1180</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>exon</GBFeature_key>
+        <GBFeature_location>1181..1508</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1181</GBInterval_from>
+            <GBInterval_to>1508</GBInterval_to>
+            <GBInterval_accession>NM_001009001.2</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>APOBEC3G</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>inference</GBQualifier_name>
+            <GBQualifier_value>alignment:Splign:2.1.0</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gctccagacaaagatcttagtcgggactaggcggccaaggatgaagcctcagttcagaaacccagtggagcgaatgtatcaagacacattctccgacaacttttataatagacccatcctttctcgtcggaataccgtctggctgtgctacgaagtgaaaacaaagggtccctcaaggccccctttggacgcaaagatctttcgaggccaggtgtattccaaacttaagtaccacccagagatgagattcttccactggttcagcaagtggaggaagctgcatcgtgaccaggagtatgaggtcacctggtacatatcctggagcccctgcacaaagtgtacaagggatgtggccacgttcctggccgaggacccgaaggttaccctgaccatctttgttgcccgcctctactacttctgggacccagattaccaggaggctcttcgcagcctgtgtcagaaaagagacggtccgcgtgccaccatgaagatcatgaattatgacgaatttcagcactgttggagcaagttcgtgtacagccaaagagagctatttgagccttggaataatctgcctaaatattatatattactgcacatcatgctgggggagattctcagacactcgatggatccacccacattcacttccaactttaacaatgaactttgggtcagaggacggcatgagacttacctgtgttatgaggtggagcgcctgcacaatgacacctgggtcctgctgaaccagcgcaggggctttctatgcaaccaggctccacataaacatggtttccttgaaggccgccatgcagagctgtgcttcctggacgtgattcccttttggaagctggacctgcaccaggactacagggttacctgcttcacctcctggagcccctgcttcagctgtgcccaggaaatggctaaattcatttcaaataacaaacacgtgagcctgtgcatcttcgctgcccgcatctatgatgatcaaggaagatgtcaggaggggctgcgcaccctggccaaggctggggccaaaatttcaataatgacatacagtgaatttaagcactgctgggacacctttgtggaccaccagggatgtcccttccagccctgggatggactagaggagcacagccaagccctgagtgagaggctgcaggccattctccagaatcagggaaactgaaggatgggcctcagtctctaaggaaggcagagacctgggttgaggctcagaataaaagatcttcttccaagaaatgcaaacaggctgttcaccaccatctccagctgatcacagacaccagcaaagcaatgcactcctgaccaagtagattcttttaaaaattagagtgcattacttttactcaaaaatttatttatgtttcaagaataaagtactaagattgtgctcaatacactcagaaaagtttcaaacctactaatccagcgacaatttgaatcggttttataagtagaggaataaaatgaaatactaa</GBSeq_sequence>
+  </GBSeq>

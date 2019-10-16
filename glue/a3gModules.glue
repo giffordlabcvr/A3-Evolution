@@ -1,6 +1,0 @@
-  create module -f modules/a3gGenbankXmlPopulator.xml genbankXmlPopulator
-  create module -f modules/a3gSideDataImporter.xml
-  create module -f modules/a3gunconstrainedAlignmentImporter.xml unconstrainedAlignmentImporter
-  create module -f modules/featureLocationTextToGlue.xml 
-  create module -f modules/a3gTabularUtility.xml a3gTabularUtility
-

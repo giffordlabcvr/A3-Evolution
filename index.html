@@ -49,6 +49,39 @@
 		<a target="_blank" href="https://pfam.xfam.org/family/APOBEC3">APOBEC3</a> evolution. 
 	  </p>
 
+	   <h3>
+		 <a id="sequenceData" class="anchor" href="#sequenceData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence data</strong>
+	   </h3>
+	   
+	   <p>
+		 The sequence data in this project have been organised into the following
+		 <b>sources</b>:<br>
+	   </p>
+   	   
+	   <p>	      
+		 <b>ncbi-refseqs</b>: mRNA reference sequences of A3G genes from distinct species.		 
+		 These
+		 <a href="https://github.com/giffordlabcvr/A3G-Evolution/tree/master/sources/ncbi-refseqs">XML-formatted files</a>
+		  are downloaded directly from <a target="_blank" href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI</a> using a GLUE module
+		 (see <a href="https://github.com/giffordlabcvr/A3G-Evolution/blob/master/modules/ncbiImporters/a3gNcbiImporterReferences.xml">here</a>)
+		 and are uniquely identified within this project by their <a target="_blank" href="https://www.ncbi.nlm.nih.gov/Sequin/acc.html">GenBank accession numbers</a>. 
+	   </p>
+	   
+	   <p>
+		 <b>fasta-curated</b>: A non-redundant set of 
+		 <a href="https://github.com/giffordlabcvr/A3G-Evolution/blob/master/tabular/efv-side-data.tsv">flavivirus-derived EVE loci</a>.
+		 These
+		 <a href="https://github.com/giffordlabcvr/A3G-Evolution/tree/master/sources/fasta-curated">FASTA sequences</a>
+		 have been curated via systematic screening of whole genome sequence (WGS) assemblies using the 
+		 <a target="_blank" href="https://giffordlabcvr.github.io/DIGS-tool/">DIGS tool</a>.
+		 Sequences in this source have unique IDs based on arbitrary numbering. 
+	   </p>
+	      	   
+	   <p>
+		 <b>fasta-refseqs</b>: Reference sequences of A3G genes not included in NCBI (e.g. pseudogenes).
+	   </p>
+
+
 	  <h3>
 	    <a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Contributors</strong>
 	  </h3>

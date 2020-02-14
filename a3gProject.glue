@@ -22,6 +22,11 @@ project a3g
   # Populate sequence table fields from GenBank XML
   module genbankXmlPopulator populate
 
+  # Import metadata for exogenous reference sequences from tabular
+  module  a3gSideDataImporter 
+    populate -f tabular/a3-side-data.tsv
+    exit
+
   # Create references
   run file glue/a3gReferences.glue
 
@@ -29,7 +34,7 @@ project a3g
   run file glue/a3gFeatures.glue
 
   # Import alignments 
-  run file glue/a3gAlignments.glue
+  #run file glue/a3gAlignments.glue
 
   # Validate
   validate

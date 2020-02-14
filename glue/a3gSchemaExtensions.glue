@@ -1,7 +1,7 @@
   table sequence
     create field name VARCHAR 100  
     create field full_name VARCHAR 100
-    create field genus VARCHAR 50
+    create field old_name VARCHAR 50
     create field clade VARCHAR 50
     create field type VARCHAR 20
     create field host_sci_name VARCHAR 100

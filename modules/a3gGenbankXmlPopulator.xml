@@ -3,7 +3,7 @@
 
 	<!-- #### ORGANISM -->			
 	<gbOrganism>
-		<propertyPopulator property="full_name">
+		<propertyPopulator property="host_sci_name">
 		</propertyPopulator>
 	</gbOrganism>
 	

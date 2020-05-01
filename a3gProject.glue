@@ -15,10 +15,12 @@ project a3g
   # create modules
   run file glue/a3gModules.glue
 
-  # Import NCBI sources 
+  # Import NCBI sources
   import source sources/ncbi-refseqs/
-  import source sources/digs-fasta/
- 
+  import source sources/fasta-digs/
+  import source sources/fasta-digs-refseqs/
+  import source sources/fasta-digs-msa/
+  
   # Populate sequence table fields from GenBank XML
   module genbankXmlPopulator populate
 
@@ -34,7 +36,7 @@ project a3g
   run file glue/a3gFeatures.glue
 
   # Import alignments 
-  #run file glue/a3gAlignments.glue
+  run file glue/a3gAlignments.glue
 
   # Validate
   validate

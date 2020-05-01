@@ -1,10 +1,10 @@
-  # Import internal node alignments
+  # Import alignments
   module unconstrainedAlignmentImporter
 
-    #~# Root alignments
+    #~# Root alignment
     import AL_A3_ROOT_UNCONSTRAINED -f alignments/root/a3.fna
 
-    #~# Internal alignments gene
+    #~# Internal alignments A3
     #import AL_A3A_UNCONSTRAINED -f alignments/internal/a3a.fna
     #import AL_A3B_UNCONSTRAINED -f alignments/internal/a3b.fna
     #import AL_A3C_UNCONSTRAINED -f alignments/internal/a3c.fna
@@ -27,6 +27,21 @@
     #import AL_A3Z2g_UNCONSTRAINED -f alignments/internal/A3Z2g.fna
 
     #import AL_A3Z3_UNCONSTRAINED -f alignments/internal/A3Z3.fna
+    exit
+
+
+  # Import internal node alignments
+  module unconstrainedAlignmentImporterCodonAlign
+
+    #~# Internal alignments non-A3
+	import AL_AICDA_UNCONSTRAINED -f alignments/internal/codon-based_MSA/AICDA.aligned.codon_seq_all_pos.fas
+	import AL_A1_UNCONSTRAINED -f alignments/internal/codon-based_MSA/A1.aligned.codon_seq_all_pos.fas
+	import AL_A2_UNCONSTRAINED -f alignments/internal/codon-based_MSA/A2.aligned.codon_seq_all_pos.fas
+	import AL_A4_UNCONSTRAINED -f alignments/internal/codon-based_MSA/A4.aligned.codon_seq_all_pos.fas
+
+	#A3.Z1.aligned.codon_seq_all_pos.fas
+	#A3.Z2.aligned.codon_seq_all_pos.fas
+	#A3.Z3.aligned.codon_seq_all_pos.fas
 
     exit
-    
+

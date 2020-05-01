@@ -4,43 +4,17 @@
 		<valueFreemarkerTemplate>${renderNestedProperty('sequence.sequenceID')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	<figTreeAnnotation>
-		<annotationName>species</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species')}</valueFreemarkerTemplate>
+		<annotationName>host_sci_name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.host_sci_name')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	<figTreeAnnotation>
-		<annotationName>species_superorder</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_superorder')}</valueFreemarkerTemplate>
+		<annotationName>name</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.name')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 	<figTreeAnnotation>
-		<annotationName>species_order</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_order')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>species_family</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_family')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>species_genus</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.species_genus')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>gene_id</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.gene_id')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>vertebrate_lineage</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.vertebrate_lineage')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>major_subclade</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.major_subclade')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>duplicate_type</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.duplicate_type')}</valueFreemarkerTemplate>
-	</figTreeAnnotation>
-	<figTreeAnnotation>
-		<annotationName>duplicate_numeric_id</annotationName>
-		<valueFreemarkerTemplate>${renderNestedProperty('sequence.duplicate_numeric_id')}</valueFreemarkerTemplate>
+		<annotationName>clade</annotationName>
+		<valueFreemarkerTemplate>${renderNestedProperty('sequence.clade')}</valueFreemarkerTemplate>
 	</figTreeAnnotation>
 </figTreeAnnotationExporter>
+
+

@@ -38,6 +38,9 @@ project a3g
   # Import alignments 
   run file glue/a3gAlignments.glue
 
+  # Build phylogenies
+  run file glue/a3gCreatePhylogenies.glue
+
   # Validate
   validate
 

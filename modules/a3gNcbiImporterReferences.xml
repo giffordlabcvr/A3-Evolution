@@ -7,65 +7,76 @@
     <specificPrimaryAccessions>
 
     <!-- Human A3A (isoform a) -->
-	<primaryAccession>NM_145699.4</primaryAccession>
+	<primaryAccession>NM_145699</primaryAccession>
     <!-- Bison A3A (isoform X1) -->
-	<primaryAccession>XM_010845122.1</primaryAccession>
+	<primaryAccession>XM_010845122</primaryAccession>
     <!-- Oryctolagus A3A (isoform X1) -->
-	<primaryAccession>XM_008257028.2</primaryAccession>
+	<primaryAccession>XM_008257028</primaryAccession>
     <!-- Rousettus A3A -->
-	<primaryAccession>XM_016161650.1</primaryAccession>
+	<primaryAccession>XM_016161650</primaryAccession>
     <!-- Manis A3A -->
-	<primaryAccession>XM_017644117.1</primaryAccession>
+	<primaryAccession>XM_017644117</primaryAccession>
     <!-- Neophocaena A3A -->
-	<primaryAccession>XM_024761574.1</primaryAccession>
+	<primaryAccession>XM_024761574</primaryAccession>
     <!-- Bos A3A -->
-	<primaryAccession>XM_027540754.1</primaryAccession>
+	<primaryAccession>XM_027540754</primaryAccession>
 	
     <!-- Human A3B (isoform a) -->
-	<primaryAccession>NM_004900.5</primaryAccession>
+	<primaryAccession>NM_004900</primaryAccession>
     <!-- Odobenus A3B -->
-	<primaryAccession>XM_012568547.1</primaryAccession>
+	<primaryAccession>XM_012568547</primaryAccession>
     <!-- Rattus A3B -->
-	<primaryAccession>NM_001033703.1</primaryAccession>
+	<primaryAccession>NM_001033703</primaryAccession>
     <!-- Sus scrofa A3B -->
-	<primaryAccession>NM_001097446.1</primaryAccession>
+	<primaryAccession>NM_001097446</primaryAccession>
 
     <!-- Human A3C -->
-	<primaryAccession>NM_014508.3</primaryAccession>
+	<primaryAccession>NM_014508</primaryAccession>
 	<!-- Otolemur garnettii DNA dC->dU-editing enzyme APOBEC-3C-like  -->
 	<primaryAccession>XM_023515456</primaryAccession>
+	<!-- Carlito syrichta DNA dC->dU-editing enzyme APOBEC-3C-like  -->
+	<primaryAccession>XM_021708335</primaryAccession>
+	<!-- Pan troglodytes DNA dC->dU-editing enzyme APOBEC-3C-like  -->
+	<primaryAccession>XM_525658</primaryAccession>
+
 
 
 
     <!-- Human A3D (isoform 1) -->
-	<primaryAccession>NM_152426.4</primaryAccession>
+	<primaryAccession>NM_152426</primaryAccession>
 
     <!-- Human A3F (isoform 1) -->
-	<primaryAccession>XM_024452178.1</primaryAccession>
+	<primaryAccession>XM_024452178</primaryAccession>
     <!-- Human A3F (transcript variant 2) -->
-	<primaryAccession>XM_024452179.1</primaryAccession>
+	<primaryAccession>XM_024452179</primaryAccession>
     <!-- Human A3F (transcript variant 1) -->
-	<primaryAccession>NM_145298.6</primaryAccession>
+	<primaryAccession>NM_145298</primaryAccession>
 	<primaryAccession>XM_017861318</primaryAccession>
+	<primaryAccession>XM_015457184</primaryAccession>
+	<primaryAccession>XM_011964203</primaryAccession>
+	<primaryAccession>XM_021676043</primaryAccession>
 
 
 
 
     <!-- Human A3G (isoform 1) -->
-	<primaryAccession>NM_021822.4</primaryAccession>
+	<primaryAccession>NM_021822</primaryAccession>
     <!-- Pan A3G (isoform 1) -->
-	<primaryAccession>NM_001009001.2</primaryAccession>
+	<primaryAccession>NM_001009001</primaryAccession>
     <!-- Elephantulus A3G (isoform 1) -->
-	<primaryAccession>XM_006890198.1</primaryAccession>
+	<primaryAccession>XM_006890198</primaryAccession>
+	<primaryAccession>NM_001349436</primaryAccession>
+	
+	
 	
     <!-- Human A3H (isoform X1) -->
-	<primaryAccession>XM_011529991.3</primaryAccession>
+	<primaryAccession>XM_011529991</primaryAccession>
     <!-- Bos A3H -->
-	<primaryAccession>NM_001346124.1</primaryAccession>
+	<primaryAccession>NM_001346124</primaryAccession>
     <!-- Lipotes A3H -->
-	<primaryAccession>XM_007454106.1</primaryAccession>
+	<primaryAccession>XM_007454106</primaryAccession>
     <!-- Equus A3H -->
-	<primaryAccession>XM_005606478.3</primaryAccession>
+	<primaryAccession>XM_005606478</primaryAccession>
 
 
   </specificPrimaryAccessions>  

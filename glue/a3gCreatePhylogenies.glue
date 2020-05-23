@@ -48,9 +48,9 @@
     exit
 
   module a3gFigTreeAnnotationExporter 
-    export figtree-annotation AL_A3_ROOT_UNCONSTRAINED -f trees/a3gaFigtreeAnnotations.tsv
-    export figtree-annotation AL_A3Z1_UNCONSTRAINED -f trees/a3gb1FigtreeAnnotations.tsv
-    export figtree-annotation AL_A3Z2_UNCONSTRAINED -f trees/a3gb2FigtreeAnnotations.tsv
-    export figtree-annotation AL_A3Z3_UNCONSTRAINED -f trees/a3gb1FigtreeAnnotations.tsv
+    export figtree-annotation AL_A3_ROOT_UNCONSTRAINED -f trees/a3RootFigtreeAnnotations.tsv
+    export figtree-annotation AL_A3Z1_UNCONSTRAINED -f trees/a3z1FigtreeAnnotations.tsv
+    export figtree-annotation AL_A3Z2_UNCONSTRAINED -f trees/a3z2FigtreeAnnotations.tsv
+    export figtree-annotation AL_A3Z3_UNCONSTRAINED -f trees/a3z3FigtreeAnnotations.tsv
     exit
 

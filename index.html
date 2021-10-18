@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127397242-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-127397242-1');
+	</script>
+
+
+    <meta charset="UTF-8">
+    <title>A3-Evolution by giffordlabcvr</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+
+
+  </head>
+  
+  <body>
+  
+    <section class="page-header">
+      <h1 class="project-name">A3-Evolution</h1>
+      <h2 class="project-tagline">Comparative evolutionary analysis of APOBEC3 genes</h2>
+      <a href="https://github.com/giffordlabcvr/A3-Evolution/zipball/master" class="btn">Download</a>
+      <a href="https://github.com/giffordlabcvr/A3-Evolution" class="btn">View on GitHub</a>
+    </section>
+
+    <section class="main-content">
+
+	  <h3>
+		<a id="a3g-glue" class="anchor" href="#a3g-glue" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Description</strong>
+	  </h3>
+
+	  <p>
+		This <a target="_blank" href="https://github.com/">GitHub</a> 
+		repository contains data and program logic supporting comparative and phylogenetic
+		investigations of
+		<a target="_blank" href="https://pfam.xfam.org/family/APOBEC3">APOBEC3</a> evolution.
+		This resource was generated as part of a collaborative investigation by
+		<a target="_blank" href="https://twitter.com/systemsvirology?lang=en">Kei Sato</a>, 
+		<a target="_blank" href="https://twitter.com/jampei2">Jumpei Ito</a>, and  
+		<a target="_blank" href="https://twitter.com/Paleovirologist">Rob Gifford</a>.	  
+	  </p>
+
+	  <h3>
+		<a id="sequenceNomenclature" class="anchor" href="#sequenceNomenclature" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Nomenclature</strong>
+	  </h3>
+	  
+	  <p>
+		A3 genes contain conserved regions called <b>Z-domains</b>.
+		Z-domains can be used to group A3 genes into classes,
+		as follows:
+		there are three distinct types of Z-domain, labelled Z1-Z3, and
+		A3 genes are modular in nature, consisting of either a single Z domain (Z1, Z2, or Z3)
+		or some combination of two Z domains (e.g. Z2 and Z3).
+		In the <a target="_blank" href="https://jvi.asm.org/content/83/2/494">proposed nomenclature</a>
+		for A3 genes they are labelled accordingly (e.g. A3Z2-A3Z3).
+	  </p>
+	  
+	  <p>
+		In some genomes, one or more of the three Z domains has been duplicated.
+		In this case, duplicates are distinguished
+		by adding lowercase letters (a, b, c, etc), labelling each duplicate  
+		alphabetically, proceeding in a 5' to 3' direction.
+	  </p>
+		
+	  <h3>
+		<a id="sequenceData" class="anchor" href="#sequenceData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence data</strong>
+	  </h3>
+	  
+	  <p>
+		The sequence data in this project have been organised into the following
+		<b>sources</b>:<br>
+	  </p>
+	  
+	  <p>	      
+		<b>ncbi-refseqs</b>: mRNA <a href="https://github.com/giffordlabcvr/A3-Evolution/blob/master/tabular/a3-side-data.tsv">reference sequences</a>
+		for A3 genes from distinct species. These
+		<a href="https://github.com/giffordlabcvr/A3-Evolution/tree/master/sources/ncbi-refseqs">XML-formatted files</a>
+		 are downloaded directly from <a target="_blank" href="https://www.ncbi.nlm.nih.gov/genbank/">NCBI</a> using a GLUE module
+		(see <a href="https://github.com/giffordlabcvr/A3-Evolution/blob/master/modules/a3gNcbiImporterReferences.xml">here</a>)
+		and are uniquely identified within this project by their <a target="_blank" href="https://www.ncbi.nlm.nih.gov/Sequin/acc.html">GenBank accession numbers</a>. 
+
+
+	  </p>
+	  
+	  <p>
+		<b>fasta-curated</b>: A non-redundant set of 
+		<a href="https://github.com/giffordlabcvr/A3-Evolution/blob/master/tabular/efv-side-data.tsv">loci</a>
+		disclosing similarity to A3 Z-domains. These
+		<a href="https://github.com/giffordlabcvr/A3-Evolution/tree/master/sources/fasta-curated">FASTA sequences</a>
+		have been curated via systematic screening of whole genome sequence (WGS) assemblies using the 
+		<a target="_blank" href="https://giffordlabcvr.github.io/DIGS-tool/">DIGS tool</a>.
+		Sequences in this source have unique IDs based on arbitrary numbering. 
+	  </p>
+			  
+	  <p>
+		<b>fasta-refseqs</b>: Reference sequences of A3 genes not included in NCBI (e.g. pseudogenes).
+	  </p>
+
+	  <h3>
+	  <a id="sequenceSideData" class="anchor" href="#sequenceSideData" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Sequence-associated data</strong>
+	  </h3>
+	  
+	  <p>
+		Sequences included in this project are linked to auxiliary data in tabular format, this includes:
+		
+		<ol>
+		  <li><a href="https://github.com/giffordlabcvr/A3-Evolution/blob/master/tabular/a3-side-data.tsv">Sequence-associated metadata</a> for the reference mRNA sequences in <b>ncbi-refseqs</b>.</li> 
+		  <li>Locus data for the sequences in <b>fasta-curated</b>.</li> 
+		</ol>
+		
+	  </p>
+
+		
+	  <h3>
+		<a id="alignments" class="anchor" href="#alignments" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Multiple sequence alignments (MSAs)</strong>
+	  </h3>
+	  
+	  <p>
+		Several distinct categories of MSA are included in this project, each representing a distinct taxonomic level.
+	   
+		<ol>
+		  <li><b>Tip</b> MSAs: Alignments of A3 alleles from a single species (mRNAs)</li> 
+		  <li><a href="https://github.com/giffordlabcvr/A3-Evolution/tree/master/alignments/internal"><b>Internal</b></a> MSAs: A3 genes (mRNAs) and A3 gene loci (genomic DNA)</li> 
+		  <li><a href="https://github.com/giffordlabcvr/A3-Evolution/tree/master/alignments/root"><b>Root</b></a> MSA capturing homology between distint A3 genes</li> 
+		</ol>
+	  </p>
+
+
+		
+	  <h3>
+		<a id="scripts" class="anchor" href="#scripts" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Scripts</strong>
+	  </h3>
+
+	  <p>
+		Scripts used in the analysis can be found <a href="https://github.com/giffordlabcvr/A3-Evolution/tree/master/scripts"><b>here</b></a>.
+	  </p>
+
+
+	  <h3>
+		<a id="contributors" class="anchor" href="#contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Contributors</strong>
+	  </h3>
+
+	  <p>Jumpei Ito (<a href="mailto:jampei0513@yahoo.co.jp">jampei0513@yahoo.co.jp</a>)</p> 
+	  <p>Robert J. Gifford (<a href="mailto:robert.gifford@glasgow.ac.uk">robert.gifford@glasgow.ac.uk</a>)</p>
+	  <p>Kei Sato</p>
+
+
+
+	   <br>
+	   <h3>
+		 <a id="Publications" class="anchor" href="#Publications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>Related Publications</strong>
+	   </h3>
+	   <hr>
+
+	   <p>
+
+ 		 Ito J, Gifford RJ, and Kei Sato
+		 <b>(2019)</b>
+		 <br>
+		 Retroviruses drive the rapid evolution of mammalian APOBEC3 genes.
+		 <br>
+		 <i>PNAS</i>
+		 <a href="https://www.pnas.org/content/early/2019/12/11/1914183116" target="_blank">[view]</a>
+		 <br>
+		 <br>
+
+		 Zhu H, Dennis T, Hughes J, and RJ Gifford
+		 <b>(2018)</b>
+		 <br>
+		 Database-integrated genome screening (DIGS): exploring genomes heuristically using sequence similarity search tools and a relational database.
+		 <a href="https://www.biorxiv.org/content/early/2018/04/25/246835" target="_blank">[preprint]</a> 
+		 <br>
+		 <br>
+
+	   </p>
+
+
+
+	   <br>
+	   <h3>
+		 <a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a><strong>License</strong>
+	   </h3>
+       <hr>
+
+		 <p>
+		   This project is licensed under the <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">GNU Affero General Public License v. 3.0</a>.
+		 </p>
+
+
+
+	  <footer class="site-footer">
+		<span class="site-footer-owner"><a href="https://github.com/giffordlabcvr/A3-Evolution">A3-Evolution</a> is maintained by <a href="https://github.com/giffordlabcvr">giffordlabcvr</a>.</span>
+
+		<span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+	  </footer>
+
+    </section>
+
+
+  </body>
+</html>
